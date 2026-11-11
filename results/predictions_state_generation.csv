@@ -1,0 +1,9 @@
+state_ut,actual_generation_tpd,predicted_generation_tpd,absolute_error_tpd,percentage_error_pct
+West Bengal,7876.0,1579.04,6296.96,79.95
+Jammu and Kashmir,705.0,975.31,270.31,38.34
+Puducherry,381.0,119.82,261.18,68.55
+Tamil Nadu,14372.0,10319.31,4052.69,28.2
+Kerala,2131.0,3288.9,1157.9,54.34
+Telangana,10238.0,9208.7,1029.3,10.05
+Manipur,221.0,168.63,52.37,23.69
+Himachal Pradesh,430.0,621.79,191.79,44.6

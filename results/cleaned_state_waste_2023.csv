@@ -1,0 +1,36 @@
+sl_no,state_ut,waste_generation_tpd,waste_processed_tpd,processing_efficiency_pct
+1,Chandigarh,526.0,526.0,100.0
+2,Chhattisgarh,1645.0,1645.0,100.0
+3,Madhya Pradesh,6678.0,6669.0,99.87
+4,Delhi,10181.0,9398.0,92.31
+5,Gujarat,9942.0,9139.0,91.92
+6,Telangana,10238.0,9404.0,91.85
+7,Karnataka,9514.0,8654.0,90.96
+8,Andaman and Nicobar Islands,52.0,47.0,90.38
+9,Maharashtra,25296.0,22514.0,89.0
+10,Andhra Pradesh,6604.0,5681.0,86.02
+11,Uttar Pradesh,18020.0,15361.0,85.24
+12,Odisha,1745.0,1447.0,82.92
+13,Goa,175.0,142.0,81.14
+14,Uttarakhand,1552.0,1251.0,80.61
+15,Manipur,221.0,176.0,79.64
+16,Himachal Pradesh,430.0,340.0,79.07
+17,Jammu and Kashmir,705.0,534.0,75.74
+18,Kerala,2131.0,1598.0,74.99
+19,Haryana,5650.0,4042.0,71.54
+20,Assam,1141.0,808.0,70.82
+21,Tamil Nadu,14372.0,9776.0,68.02
+22,Tripura,103.0,70.0,67.96
+23,Dadra and Nagar Haveli and Daman and Diu,81.0,54.0,66.67
+24,Punjab,3579.0,2326.0,64.99
+25,Jharkhand,2156.0,1342.0,62.24
+26,Ladakh,17.0,10.0,58.82
+27,Rajasthan,6172.0,2537.0,41.1
+28,Sikkim,71.0,25.0,35.21
+29,Arunachal Pradesh,242.0,77.0,31.82
+30,Bihar,6106.0,1306.0,21.39
+31,West Bengal,7876.0,786.0,9.98
+32,Puducherry,381.0,35.0,9.19
+33,Nagaland,37.0,2.0,5.41
+34,Meghalaya,3.0,0.0,0.0
+35,Mizoram,176.0,0.0,0.0
